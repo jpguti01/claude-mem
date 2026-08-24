@@ -1,3 +1,15 @@
+## Portfolio Snapshot
+
+Fork curated by [Joao Pedro Gutierrez](https://github.com/jpguti01) as part of an AI engineering portfolio focused on **agent memory**, **context engineering**, and persistent development workflows.
+
+Claude-Mem captures coding-session context, compresses it, and makes relevant memory available in later AI-agent sessions. It is a strong reference project for understanding lifecycle hooks, local services, semantic retrieval, and long-running agent context.
+
+- **Main technologies:** TypeScript, Node.js, Bun, SQLite, Chroma/vector search, Claude Code hooks.
+- **Example install:** `npx claude-mem install`
+- **License:** AGPL-3.0 upstream license preserved.
+
+---
+
 <h1 align="center">
   <br>
   <a href="https://github.com/thedotmack/claude-mem">
